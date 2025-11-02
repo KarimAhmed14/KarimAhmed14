@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, My name is Karim 👋
 
 # 💫 About Me:
 Front-End Developer <br>Passionate about creating stylish sites<br>Trying to improve everyday
