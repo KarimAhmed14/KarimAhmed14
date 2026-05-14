@@ -49,7 +49,6 @@
 ---
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarimAhmed14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Karim's GitHub stats" />
