@@ -49,9 +49,23 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KarimAhmed14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KarimAhmed14&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimAhmed14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimAhmed14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Karim's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KarimAhmed14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimAhmed14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KarimAhmed14&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+</p>
 
 ---
 
